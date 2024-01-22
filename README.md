@@ -12,7 +12,7 @@ A workflow automation for **retrieving the top 10 important news, summarizing th
 - Store the results in Notion.
 
 <div align="center">
-<img width="90%" alt="Process Chart" src="https://raw.githubusercontent.com/xrchitron/top10news/main/server/public/img/process_chart_diagram.jpg"/>
+<img width="90%" alt="Process Chart" src="https://github.com/xrchitron/top10news/blob/main/image/process_chart_diagram.jpg"/>
 </div>
 
 ## How to Execute this Workflow Automation (The Following Method Is Only Doable with Apple Ecosystem)
